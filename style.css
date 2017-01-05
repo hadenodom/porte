@@ -1,0 +1,38 @@
+body{
+	color: white;
+	font-size: 2vh;
+}
+
+div.proj {
+	background-color: #121212;
+	background-repeat: none;
+	background-size: cover;
+	border: solid 2px #665c64;
+	display:inline-block;	
+	white-space: pre-wrap;
+	width: 30vw;
+	height: 20vw;
+}
+
+h1 {
+	font-size: 5vh;
+}
+h2 {
+	font-size: 3vh;
+	background-color: black;
+	padding: 3px;
+	display: inline-block;
+	float:left;
+}
+p {
+	background-color: black;
+	padding: 3px;
+	display: inline-block;
+	float:left;
+	clear:both;
+}
+a{
+	color:white;
+	font-decoration:none;
+}
+
