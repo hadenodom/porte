@@ -29,3 +29,8 @@ Edit these to add your projects.
 The HTML in index.php is minimal, and is meant for you to build your site around.  
 
 Have fun, and happy hacking!
+
+## TODO:
+* Distro packaging
+* Change from CSV to using SQL or a non-SQL relational database system
+* Create simple client to push changes to one's portfolio
