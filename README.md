@@ -1,4 +1,4 @@
-# Porte (Forte-Aye) Portfolio Engine
+# Porte (Porte-Aye) Portfolio Engine
 
 PHP Portfolio Engine that makes it super-easy to show off your web design and/or programming portfolio.  Add new projects as simply as adding a line to a file and uploading a picture (And a script to automate that is what I'm going to make next)
 
